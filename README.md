@@ -50,7 +50,7 @@ All log files are stored in the `Python_Install_Logs` folder on your desktop. Ea
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE]([LICENSE](https://github.com/KernFerm/Py3.12.1-installer-PS1/blob/main/LICENSE)) file for details.
 
 ## Contributing
 
