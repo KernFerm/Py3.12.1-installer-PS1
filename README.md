@@ -24,8 +24,14 @@ This repository contains a robust PowerShell script designed to install Python 3
 3. **Administrative Privileges:**
 
    - Make sure to run the script with administrator privileges to ensure proper installation and PATH updates.
+  
+# v7.4.5 Release of PowerShell - Latest (recommended)
+      choose your recommended pc specs either 32bit or 64bit 
 
-## Script Breakdown
+- For Windows `64-bit systems`, [Download 64-Bit Installer](https://github.com/PowerShell/PowerShell/releases/download/v7.4.5/PowerShell-7.4.5-win-x64.msi)
+- For Windows `32-bit systems`, [Download 32-Bit Installer](https://github.com/PowerShell/PowerShell/releases/download/v7.4.5/PowerShell-7.4.5-win-x86.msi)
+
+4. Select the version of PowerShell you wish to install, with `v7.4.5` being the latest recommended version.
 
 ### Variables
 
