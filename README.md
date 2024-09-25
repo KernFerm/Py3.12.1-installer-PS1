@@ -1,3 +1,8 @@
+## Support the Project ⭐
+
+If you find this project useful, please give it a star! Your support is appreciated and helps keep the project growing. 🌟
+
+
 # 🐍 Python 3.12.1 Installation Script (PowerShell) 🚀
 
 This repository contains a **robust PowerShell script** designed to install Python 3.12.1 on Windows 🖥️. The script includes detailed logging functionality, ensuring that each step of the installation process is recorded in a log file created on your desktop 📄.
