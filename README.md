@@ -11,40 +11,17 @@ If you find this project useful, please give it a star! Your support is apprecia
 
 1. **Download the Script**:
 
-   - Click on the `Install-Python-3.12.1.ps1` file in this repository.
+   - Click on the `install_python_3-12-1.bat` file in this repository.
    - Click the **Download** button to save the script to your local machine 💾.
 
 2. **Run the Script**:
 
    - Navigate to the location where you downloaded the script.
-   - Right-click on `Install-Python-3.12.1.ps1` and select **Run with PowerShell** 💻.
+   - Right-click on `install_python_3-12-1.bat` and select **Run with command prompt** 💻.
 
 3. **Administrative Privileges**:
 
    - Make sure to run the script with administrator privileges 🛡️ to ensure proper installation and PATH updates.
-
----
-
-### 🔧 v7.4.6 Release of PowerShell - Latest (recommended)
-
-Select the version that matches your system specs:
-
-- For **Windows 64-bit systems**: [Download 64-Bit Installer](https://github.com/PowerShell/PowerShell/releases/download/v7.4.6/PowerShell-7.4.6-win-x64.msi)
-- For **Windows 32-bit systems**: [Download 32-Bit Installer](https://github.com/PowerShell/PowerShell/releases/download/v7.4.6/PowerShell-7.4.6-win-x86.msi)
-
-Select the version of PowerShell you wish to install, with `v7.4.6` being the latest recommended version 🔧.
-
----
-
-### 📋 Variables
-
-- **$PythonVersion**: Specifies the Python version to install (3.12.1) 🔢.
-- **$LogDir**: Directory where the log file will be stored (on your desktop 🖥️).
-- **$LogFile**: The log file that records the installation process 📝.
-- **$InstallerName**: The name of the Python installer file 📂.
-- **$InstallerUrl**: The URL from which the Python installer is downloaded 🌐.
-
----
 
 ### 🛠️ Steps
 
@@ -56,13 +33,6 @@ Select the version of PowerShell you wish to install, with `v7.4.6` being the la
 6. **Cleanup**: The installer file is deleted after a successful installation 🧹.
 
 ---
-
-## 📝 Logging
-
-All log files are stored in the `Python_Install_Logs` folder on your desktop 📂. Each log entry includes a timestamp for easy tracking ⏱️. The log file provides a detailed report on each step of the installation process, including any errors encountered 🚨.
-
----
-
 ## 📜 License
 
 This project is licensed under the **MIT License**. See the [LICENSE](https://github.com/KernFerm/Py3.12.1-installer-PS1/blob/main/LICENSE) file for details 📄.
@@ -78,14 +48,3 @@ If you have suggestions or improvements, please feel free to share by contacting
 ## 📧 Contact
 
 For any questions or issues, please [create an issue](https://github.com/KernFerm/Py3.12.1-installer-PS1/issues).
-
----
-
-### 📝 Notes:
-
-- **How to Download the Repo**: Provides instructions on downloading the repository.
-- **Prerequisites**: Lists the system and connection requirements.
-- **Usage**: Details on how to run the installation script.
-- **Instructions**: Explains the step-by-step installation process.
-- **Logging**: Describes how logs are stored and tracked.
-
